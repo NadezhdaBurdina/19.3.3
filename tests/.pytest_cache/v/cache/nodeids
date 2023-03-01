@@ -1,0 +1,5 @@
+[
+  "test.py::TestCalc::test_adding_success",
+  "test.py::TestCalc::test_adding_unsuccess",
+  "test.py::TestCalc::test_zero_division"
+]
